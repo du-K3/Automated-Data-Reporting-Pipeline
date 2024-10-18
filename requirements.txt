@@ -1,0 +1,6 @@
+pyspark==3.3.1
+pandas
+requests
+azure-storage-blob
+azure-datalake-store
+pyodbc
